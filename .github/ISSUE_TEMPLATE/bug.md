@@ -16,6 +16,9 @@ assignees: ''
   - Branch: Main / Experimental
   - Platform: [ all | Windows | Linux (specify) ]
 
+#### Steps to reproduce:
+Minimal viable example on how to reproduce the bug
+
 #### What you expect:
 Briefly (in a sentence or two) explain what usually should happen
 
